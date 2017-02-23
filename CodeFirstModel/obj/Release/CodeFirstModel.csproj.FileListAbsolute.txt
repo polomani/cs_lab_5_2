@@ -1,0 +1,4 @@
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstModel\bin\Release\CodeFirstModel.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstModel\bin\Release\CodeFirstModel.pdb
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstModel\obj\Release\CodeFirstModel.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstModel\obj\Release\CodeFirstModel.pdb

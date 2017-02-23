@@ -1,0 +1,12 @@
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\CodeFirstDataAccess.dll.config
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\CodeFirstDataAccess.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\CodeFirstDataAccess.pdb
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\CodeFirstModel.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\EntityFramework.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\CodeFirstModel.pdb
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\EntityFramework.xml
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\obj\Release\CodeFirstDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\obj\Release\CodeFirstDataAccess.dll
+C:\Users\Vanchik\Documents\Visual Studio 2013\Projects\Approg_lab5_begin\CodeFirstDataAccess\obj\Release\CodeFirstDataAccess.pdb
